@@ -1,4 +1,5 @@
-public class Main implements StudentGroup{
+
+public class Main {
 
 	public static void main(String[] args)  {
 		
